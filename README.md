@@ -88,9 +88,7 @@ Or run from the `output/` directory if built there.
 
 ## Video:
 
-<p align="center">
-  <video src="SimulationVideo.mp4" alt="Physics Simulation Video" width="800">
-</p>
+https://github.com/user-attachments/assets/779118a6-4479-4be3-b136-837d66ee237e
 
 ## Technical Details
 
