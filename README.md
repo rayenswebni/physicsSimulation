@@ -31,7 +31,7 @@ physicsSimulation/
 ├── lib/              # Windows DLL dependencies
 ├── output/           # Compiled executables
 ├── Makefile          # Build configuration
-└── preview.jpg      # Screenshot of the simulation
+└── SimulationVideo.mp3      # video of the simulation
 ```
 
 ## Building the Project
@@ -86,10 +86,10 @@ Or run from the `output/` directory if built there.
 - **ESC** or **Close Window**: Exit the simulation
 - The simulation runs automatically with no user interaction required
 
-## Screenshot
+## Video:
 
 <p align="center">
-  <img src="preview.jpg" alt="Physics Simulation Screenshot" width="800">
+  <video src="SimulationVideo.mp4" alt="Physics Simulation Video" width="800">
 </p>
 
 ## Technical Details
